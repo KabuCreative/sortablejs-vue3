@@ -35,11 +35,11 @@
     }
   },
   "dependencies": {
-    "sortablejs": "^1.15.0",
+    "sortablejs": "github:roy-mdr/Sortable#cee2ee7bccf83a7776c85588759aa0b8f9ca5d3f",
     "vue": "^3.2.37"
   },
   "peerDependencies": {
-    "sortablejs": "^1.15.0",
+    "sortablejs": "github:roy-mdr/Sortable#cee2ee7bccf83a7776c85588759aa0b8f9ca5d3f",
     "vue": "^3.2.25"
   },
   "devDependencies": {
